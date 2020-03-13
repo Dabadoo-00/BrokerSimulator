@@ -46,6 +46,8 @@ public class ClientApplication {
             
             System.out.println("############ Receive a Response Message from the server ###########");
             
+            System.out.println("############ Receive a Response Message from the server 2 ###########");
+            
             System.out.println("New Testing line is added!");
             System.out.println(response);
 
